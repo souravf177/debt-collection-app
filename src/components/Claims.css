@@ -1,0 +1,16 @@
+.claim-container div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.copy-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.copy-button span {
+  margin-left: 1rem;
+  color: green;
+  font-weight: bold;
+}
